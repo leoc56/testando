@@ -1,0 +1,304 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#img-cell{
+    position: relative;
+    left: 20%;
+    width: 50%;
+    top: 70px;
+}
+#fundo{
+    background-image: url("_img/testeimg4.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: 0px -16px;
+    opacity: 80%;
+    height: 660px;
+    position: relative;
+    box-shadow: 0px 6px 100px rgba(0, 0, 0, 0.19);
+}
+#h-text{
+    text-align: center;
+    position: absolute;
+    color: rgb(255, 136, 0);
+    top: 30px;
+    left: 60px;
+}
+#Tg1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 7.5em;
+}
+#Tg3{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+/**/
+#img-espo{
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+#h-text2{
+    text-align: center;
+    position: relative;
+    top: -465px;
+    left: 650px;
+    color: black;
+    width: 50%;
+}
+#field1{
+    width:90%;
+    text-align: left;
+    position: absolute;
+    border: none;
+}
+#Ag1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+#Ag2{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    line-height: 30px;
+    color: rgb(27, 27, 27);
+    text-align: left;
+    margin-bottom: 20px;
+}
+#Ag3{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(27, 27, 27);
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+#tudo1{
+    margin-top: 70px;
+}
+/**/
+
+#fundo2{
+    background-image: url("_img/fundo3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 90px;
+    background-size: 100%;
+    background-position: 0px -16px;
+    height: 680px;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 100px 0 rgba(0, 0, 0, 0.19);
+}
+#h-text3{
+    left: 37%;
+    position: absolute;
+}
+#Tg2{
+    width: 400px;
+}
+#Cs1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: white;
+    position: relative;
+    left: -5%;
+    margin-bottom: 40px;
+}
+#Cs2{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 27px;
+    color: white;
+    margin-bottom: 10px;
+    position: relative;
+    left: -25%;
+}
+#Cs3{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 27px;
+    color: white;
+    position: relative;
+    left:-25%;
+    margin-bottom: 50px;
+}
+/**/
+#fundo3{
+    background-image: url("_img/fundo3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 70px;
+    background-size: 100%;
+    background-position: 0px -16px;
+    height: 50px;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 100px 0 rgba(0, 0, 0, 0.19);
+}
+#Tdr{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 15pt;
+    color: white;
+    position: absolute;
+    left: 79%;
+    margin-top: 1%;
+    list-style: none;
+}
+
+/**/
+
+#img1{
+    width: 300px;
+    margin-top: 130px;
+    position: relative;
+    left: 150px;
+  }
+  #textbox{
+    height:50px;
+    width: 500px;
+    border-radius:3px;
+    border:rgba(0,0,0,.3) 2px solid;
+    box-sizing:border-box;
+    padding:10px;
+    font-size: 15pt;
+    margin-bottom:30px;
+    border-radius: 10px 10px 10px 10px;
+    outline: 0;
+  }
+  #form1{
+    margin-top: 60px;
+  }
+  #form{
+    height:300px;
+    width:650px;
+    border: none;
+    left: 500px;
+    top: -370px;
+    position: relative;
+    box-sizing:border-box;
+    padding:40px;
+  } 
+  #casa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(30, 30, 100);
+    position: relative;
+    left: -5%;
+    margin-bottom: 40px;
+  }
+  #Cs4{
+    height:50px;
+    width: 500px;
+    position: relative;
+    left: -0.5%;
+    border-radius: 40px 40px 40px 40px;
+    border:rgba(0,0,0,.3) 2px solid;
+    box-sizing:border-box;
+    padding:10px;
+    margin-bottom:30px;
+    background-color: rgb(255, 183, 50);
+    color:#FFF;
+    font-weight:bold;
+    font-size: 15pt;
+    cursor:pointer;
+    outline: 0;
+    margin-top: 30px;
+  }
+  button:hover{
+    -webkit-animation: swing 1s ease;
+    animation: swing 1s ease;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+  }
+  @keyframes swing
+  {
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+        transform: translateX(-5px);
+    }
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+  }
+
+  /*
+  #img-esporte{
+    position: relative;
+    top: -490px;
+    left: 940px;
+    width: 300px;
+  }
+  #fr-1{
+    position: relative;
+    left: -122px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 39pt;
+  }
+  #fr-2{
+    position: relative;
+    left: -122px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 33pt;
+  }
+  #fr-3{
+    position: relative;
+    left: -100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 33pt;
+    width: 240px;
+  }
+  #logo-1{
+    position: relative;
+    left: -50px;
+}
+
+  @-webkit-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; } 
+    }
+    @-moz-keyframes fadeIn {
+    0% { opacity: 0;}
+    100% { opacity: 1; }
+    }
+    @-o-keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+    }
+    @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+    }
+    
+    .Slides {
+    -webkit-animation: fadeIn 2s ease-in-out;
+    -moz-animation: fadeIn 2s ease-in-out;
+    -o-animation: fadeIn 2s ease-in-out;
+    animation: fadeIn 2s ease-in-out;
+    }
+    */
+
